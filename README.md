@@ -7,10 +7,12 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://th.bing.com/th/id/OIP.5BxsKdxSXnpkvDteJk73vQHaHa?pid=ImgDet&rs=1">
+
   <img align="right" alt="Foto-fundo" height="130" style="border-radius:50px;" src="https://th.bing.com/th/id/R.27a672f7b742549d76546c9b06fcefc1?rik=0PaJd9n%2f6mZa3A&pid=ImgRaw&r=0">
 </div>
 
-##
+## Contatos
  
 <div> 
   <a href="https://www.instagram.com/ga_goulartt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
